@@ -7,4 +7,5 @@ While there is a robust conversation around federal (and sometimes, state) gover
 - [Bristol City Council Pattern Library (UK)](http://style.bristol.gov.uk/)
 - [City of Philadelphia Pattern Portfolio](http://cityofphiladelphia.github.io/patterns/)
 - [City of Tampa Pattern Library](https://www.tampagov.net/static/pattern-library/)
+- [City of Boston Pattern Library](https://github.com/CityOfBoston/patterns)
 

@@ -5,4 +5,6 @@ While there is a robust conversation around federal (and sometimes, state) gover
 
 ## Resources
 [Bristol City Council Pattern Library (UK)](http://style.bristol.gov.uk/)
+[City of Philadelphia Pattern Portfolio](http://cityofphiladelphia.github.io/patterns/)
+
 

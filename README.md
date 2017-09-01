@@ -9,7 +9,7 @@ Feel free to submit others. Or contact me via Twitter [@ronbronson](http://twitt
 
 ## Resources
 - [Bristol City Council Pattern Library (UK)](http://style.bristol.gov.uk/)
-- [City of Philadelphia Pattern Portfolio](http://cityofphiladelphia.github.io/patterns/)
+- [City of Philadelphia Digital Standards](http://standards.phila.gov/)
 - [City of Tampa Pattern Library](https://www.tampagov.net/static/pattern-library/)
 - [City of Boston Pattern Library](https://github.com/CityOfBoston/patterns)
 - [Municipality of Córdoba, Argentina Web Templates](https://github.com/ModernizacionMuniCBA/guia-estilos-y-web)

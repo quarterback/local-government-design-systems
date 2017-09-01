@@ -12,4 +12,4 @@ Feel free to submit others. Or contact me via Twitter [@ronbronson](http://twitt
 - [City of Philadelphia Pattern Portfolio](http://cityofphiladelphia.github.io/patterns/)
 - [City of Tampa Pattern Library](https://www.tampagov.net/static/pattern-library/)
 - [City of Boston Pattern Library](https://github.com/CityOfBoston/patterns)
-- [Cordoba, Argentina Web Templates](https://github.com/ModernizacionMuniCBA/guia-estilos-y-web)
+- [Municipality of Córdoba, Argentina Web Templates](https://github.com/ModernizacionMuniCBA/guia-estilos-y-web)

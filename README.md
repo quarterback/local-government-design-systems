@@ -17,4 +17,4 @@ Feel free to submit others. Or contact me via Twitter [@ronbronson](http://twitt
 - [City of Boston Pattern Library](https://github.com/CityOfBoston/patterns)
 - [Municipality of Córdoba, Argentina Web Templates](https://github.com/ModernizacionMuniCBA/guia-estilos-y-web)
 - [Province of Alberta, Corporate Identity Manual](https://corporateidentity.alberta.ca/downloads/Alberta_Corporate_Identity_Manual.pdf)(PDF)
-- [State of Massachusetts Design System](http://mayflower.digital.mass.gov/) (
+- [State of Massachusetts Design System](http://mayflower.digital.mass.gov/)

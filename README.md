@@ -13,6 +13,7 @@ Feel free to submit others. Or contact me via Twitter [@ronbronson](http://twitt
 - [City of Austin Design System](http://odd.austintexas.io/)
 - [City of Bloomington Indiana Pattern Library](https://github.com/City-of-Bloomington/factory-number-one/)
 - [Bristol City Council Pattern Library (UK)](http://style.bristol.gov.uk/)
+- [Chicago Design System](https://chicagodesignsystem.org/)
 - [City of Philadelphia Digital Standards](http://standards.phila.gov/)
 - [City of Tampa Pattern Library](https://www.tampagov.net/static/pattern-library/)
 - [City of Boston Pattern Library](https://github.com/CityOfBoston/patterns)
